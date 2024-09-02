@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devlisboa
+👋 Hi, I’m @devlisboa
 ## Olá, sou a Vinícios Lisboa.
 
 📍 São Paulo, SP
